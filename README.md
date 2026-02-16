@@ -1,2 +1,0 @@
-# photoLib
-photo library
